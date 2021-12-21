@@ -17,7 +17,7 @@ nav:
   home: /
   about: /about/
   articles: /archives/
-  projects: projects_url
+#  projects: projects_url
 
 
 # Links to your social media accounts.
@@ -59,7 +59,7 @@ post:
 # Customize the copyright years
 # Note: if start_year/end_year not provided, will use current year.
 copyright:
-  start_year: 2016
+  start_year: 2021
   end_year:
 
 ##############################################################################
@@ -78,7 +78,7 @@ logo:
   enabled: true
   width: 50
   height: 50
-  url: /images/saber.png
+  url: /img/saber.png
   gravatar: false
   grayout: true
 
@@ -93,13 +93,13 @@ logo:
 #   - gravatar: whether to create a favicon from your Gravatar
 favicon:
   desktop:
-    url: /images/favicon.ico
+    url: /img/favicon.ico
     gravatar: false
   android:
-    url: /images/favicon-192x192.png
+    url: /img/favicon-192x192.png
     gravatar: false
   apple:
-    url: /images/apple-touch-icon.png
+    url: /img/apple-touch-icon.png
     gravatar: false
 
 # The color scheme that should be used to highlight codeblocks.
